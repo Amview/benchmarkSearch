@@ -1,0 +1,8 @@
+{
+  "dataDb": "method/data.db",
+  "downpath": "cache/",
+  "passmark_singleCpu": "https://www.cpubenchmark.net/singleThread.html",
+  "passmark_manyCpu": "https://www.cpubenchmark.net/high_end_cpus.html",
+  "passmarkGpu": "https://www.videocardbenchmark.net/high_end_gpus.html",
+  "button": ""
+}
